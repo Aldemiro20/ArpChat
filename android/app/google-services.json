@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742361053624",
+    "project_id": "arpchat-890ce",
+    "storage_bucket": "arpchat-890ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742361053624:android:eda56f62591823d86bf74d",
+        "android_client_info": {
+          "package_name": "com.arpchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742361053624-j6srkb7bf2kfrghcad1g1gf5eikbuoqa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Zk7LbS6FLIsBAPSu75tNdO67_uF4IyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742361053624-j6srkb7bf2kfrghcad1g1gf5eikbuoqa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
